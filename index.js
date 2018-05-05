@@ -13,7 +13,7 @@ const options = {
     username: "not_not_a_bot_i_swear",
     password: "oauth:af2eo30pnp7szeu5gljf8ltzm5ndo0"
   },
-  channels: ['robertjamesgabriel','littlemissbendy']
+  channels: ['robertjamesgabriel','courtneymakesvideo']
 }
 
 let client = new tmi.client(options);
